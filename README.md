@@ -1,5 +1,6 @@
 <!--
 **rjcjunior/rjcjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![capa_github_rjcjunior](https://raw.githubusercontent.com/rjcjunior/rjcjunior/master/Sem%20Título-1.png)
 
 ## Hi, I'm Ricardo Júnior, a developer 🚀 from Brazil.
 
@@ -11,9 +12,9 @@
 </p>
   </br>
   
-- 🔭 I'm currently working full-time at **Lumis**
+- 🔭 I'm currently working full-time at **Lumis** [https://www.lumis.com.br/]
 - ⚙️ I use daily: `.js`, `.html`, `.scss`
-- 🌱 Learning more about and studying: **React Native, Flutter, Nodejs**
+- 🌱 Learning more about and studying: **Reactjs/React Native, Flutter, Nodejs**
 - 💬 I can help with: **Web Development**, **Javascript**, **Wordpress**, **Ruby on rails**
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rjcjunior/">LinkedIn</a>
 - ⚡ Fun fact: I ❤️ 🐶s

@@ -21,8 +21,8 @@
 
 ### Languages and Tools:
 <div vlign="center">
-    <img width="50%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjcjunior&layout=compact&hide=html"alt="rjcjunior" />
-  <p vlign="center" align="left" width="40%">
+    <img width="50%"  vlign="center" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjcjunior&layout=compact&hide=html"alt="rjcjunior" />
+  <div style="display: flex; vlign="center"  vlign="center" align="left" width="40%">
   <img  src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"         width="50" height="50" /> 
   <img  src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"         width="50" height="50" /> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"         width="50" height="50" /> 

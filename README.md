@@ -14,7 +14,7 @@
 - 🔭 I'm currently working full-time at **Lumis**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`
 - 🌱 Learning more about and studying: **React Native, Flutter, Nodejs**
-- 💬 I can help with: **Web developer**, **Javascript**, **Wordpress**, **Ruby on rails**
+- 💬 I can help with: **Web Development**, **Javascript**, **Wordpress**, **Ruby on rails**
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rjcjunior/">LinkedIn</a>
 - ⚡ Fun fact: I ❤️ 🐶s
 </br>

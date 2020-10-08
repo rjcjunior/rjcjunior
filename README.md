@@ -12,7 +12,7 @@
   </br>
   
 - 🔭 I'm currently working full-time at **Lumis** [https://www.lumis.com.br/]
-- ⚙️ I use daily: `.js`, `.html`, `.scss`
+- ⚙️ I use daily: `.js`, `.ts`, `.scss`
 - 🌱 Learning more about and studying: **Reactjs/React Native, Flutter, Nodejs**
 - 💬 I can help with: **Web Development**, **Javascript**, **Wordpress**, **Ruby on rails**
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rjcjunior/">LinkedIn</a>

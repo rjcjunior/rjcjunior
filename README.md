@@ -11,7 +11,7 @@
 </p>
   </br>
   
-- 🔭 I'm currently working full-time at **Lumis** [https://www.lumis.com.br/]
+- 🔭 I'm currently working full-time at **Radix** [https://www.radixeng.com.br/]
 - ⚙️ I use daily: `.js`, `.ts`, `.scss`
 - 🌱 Learning more about and studying: **Reactjs/React Native, Flutter, Nodejs**
 - 💬 I can help with: **Web Development**, **Javascript**, **Wordpress**, **Ruby on rails**

@@ -13,8 +13,8 @@
   
 - 🔭 I'm currently working full-time at **Radix** [https://www.radixeng.com.br/]
 - ⚙️ I use daily: `.js`, `.ts`, `.scss`
-- 🌱 Learning more about and studying: **Reactjs/React Native, Flutter, Nodejs**
-- 💬 I can help with: **Web Development**, **Javascript**, **Wordpress**, **Ruby on rails**
+- 🌱 Learning more about and studying: **Serverless Applications, Flutter, Nodejs, AWS**
+- 💬 I can help with: **Web Development**, **Javascript**, **Wordpress**, **ReactJs/React Native**
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rjcjunior/">LinkedIn</a>
 - ⚡ Fun fact: I ❤️ 🐶s
 </br>
